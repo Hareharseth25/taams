@@ -13,8 +13,6 @@
     "isolatedModules": true,
 
     "jsx": "react-jsx",
-    "types": ["react"],
-
     "paths": {
       "@/*": ["./src/*"]
     }
