@@ -67,4 +67,4 @@ npm run build
 
 ## Created By
 
-Made by Ryan & Abhijit
+Made by Harehar and Anushka
